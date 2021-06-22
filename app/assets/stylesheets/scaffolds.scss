@@ -5,8 +5,8 @@ body {
 
 body, p, ol, ul, td {
   font-family: verdana, arial, helvetica, sans-serif;
-  font-size: 13px;
-  line-height: 18px; }
+  font-size: 24px;
+  line-height: 20px; }
 
 pre {
   background-color: #eee;
@@ -21,13 +21,13 @@ a:visited {
 
 a:hover {
   color: #fff;
-  background-color: #000; }
+  background-color: rgb(143, 143, 143); }
 
 th {
-  padding-bottom: 5px; }
+  padding: 0 10px 10px; }
 
 td {
-  padding: 0 5px 7px; }
+  padding: 0 10px 12px; }
 
 div.field,
 div.actions {

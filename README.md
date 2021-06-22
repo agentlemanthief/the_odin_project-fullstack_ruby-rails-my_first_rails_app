@@ -1,24 +1,17 @@
-# README
+The Odin Project's Full Stack Ruby on Rails My First Rails App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Assignment
 
-Things you may want to cover:
+Introduction
 
-* Ruby version
+If you went through the Ruby course you will have already installed Ruby. But if you haven’t done that, then now is the time to install it as you will need Ruby installed before we tackle installing Rails.
 
-* System dependencies
+With Ruby installed, you’re all set to install Rails and create our first Rails app to ensure everything went smoothly.
 
-* Configuration
+Introduction
 
-* Database creation
+If you went through the Ruby course you will have already installed Ruby. But if you haven’t done that, then now is the time to install it as you will need Ruby installed before we tackle installing Rails.
 
-* Database initialization
+With Ruby installed, you’re all set to install Rails and create our first Rails app to ensure everything went smoothly.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails
